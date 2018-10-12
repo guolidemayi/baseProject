@@ -126,5 +126,11 @@
         @strongify(self);
         self.view.mj_footer.hidden = [contentSize CGSizeValue].height < self.view.mj_h;
     }];
+    //dfadfa
+    
+    
+    
+    
+    
 }
 @end

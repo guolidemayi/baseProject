@@ -57,6 +57,7 @@
 		0F9BC2E8216C5833002DF096 /* GLD_HomeListViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9BC2E7216C5833002DF096 /* GLD_HomeListViewModel.m */; };
 		0F9BC2EB216C815C002DF096 /* GLD_WeiboModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9BC2EA216C815B002DF096 /* GLD_WeiboModel.m */; };
 		0F9BC2EF216C89EB002DF096 /* GLD_WeiBoCellViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9BC2EE216C89EB002DF096 /* GLD_WeiBoCellViewModel.m */; };
+		0F9BC30A21709522002DF096 /* dddddd.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F9BC30921709522002DF096 /* dddddd.m */; };
 		0FB0CEBC20849FFE00E3AAC1 /* GLD_TabelBiner.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB0CEBB20849FFE00E3AAC1 /* GLD_TabelBiner.m */; };
 		0FB0CEBF2084A02900E3AAC1 /* GLD_ListViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB0CEBE2084A02900E3AAC1 /* GLD_ListViewModel.m */; };
 		132D58E399BE0E0B21BA3B81 /* libPods-YX_BaseProject.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F27066EF4473636B348ECC /* libPods-YX_BaseProject.a */; };
@@ -189,6 +190,8 @@
 		0F9BC2EA216C815B002DF096 /* GLD_WeiboModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLD_WeiboModel.m; sourceTree = "<group>"; };
 		0F9BC2ED216C89EB002DF096 /* GLD_WeiBoCellViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLD_WeiBoCellViewModel.h; sourceTree = "<group>"; };
 		0F9BC2EE216C89EB002DF096 /* GLD_WeiBoCellViewModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLD_WeiBoCellViewModel.m; sourceTree = "<group>"; };
+		0F9BC30821709522002DF096 /* dddddd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dddddd.h; sourceTree = "<group>"; };
+		0F9BC30921709522002DF096 /* dddddd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dddddd.m; sourceTree = "<group>"; };
 		0FB0CEBA20849FFE00E3AAC1 /* GLD_TabelBiner.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLD_TabelBiner.h; sourceTree = "<group>"; };
 		0FB0CEBB20849FFE00E3AAC1 /* GLD_TabelBiner.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLD_TabelBiner.m; sourceTree = "<group>"; };
 		0FB0CEBD2084A02900E3AAC1 /* GLD_ListViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLD_ListViewModel.h; sourceTree = "<group>"; };
@@ -669,6 +672,8 @@
 		0F9BC2F0216D99B0002DF096 /* view */ = {
 			isa = PBXGroup;
 			children = (
+				0F9BC30821709522002DF096 /* dddddd.h */,
+				0F9BC30921709522002DF096 /* dddddd.m */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -1032,6 +1037,7 @@
 				0F9BC2EB216C815C002DF096 /* GLD_WeiboModel.m in Sources */,
 				0F9BC2EF216C89EB002DF096 /* GLD_WeiBoCellViewModel.m in Sources */,
 				0F2D06582068A7E500DA2341 /* main.m in Sources */,
+				0F9BC30A21709522002DF096 /* dddddd.m in Sources */,
 				0F2D065A2068A7E500DA2341 /* LBMessageViewController.m in Sources */,
 				0F2D06562068A7E500DA2341 /* LBHomeViewController.m in Sources */,
 				0F2D068C2068CAAF00DA2341 /* GLD_Service.m in Sources */,
